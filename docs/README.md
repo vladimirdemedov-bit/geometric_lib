@@ -1,7 +1,5 @@
 # Документация проекта `Geometric Library`
 
----
-
 ## Общее описание решения
 
 `geometric_lib` — библиотека для вычисления величин геометрических фигур.
@@ -166,16 +164,8 @@ print(res)  # 16
 
 | Хэш коммита | Сообщение |
 | --- | --- |
-| `86edb1c` | L-05: Update Docs. Add user agreement info |
-| `438b89a` | L-05: Add user agreement |
-| `6adb962` | L-03: Docs added |
-| `3049431` | L-04: Add rectangle.py |
-| `b5b0fae` | L-04: Update docs for calculate.py |
-| `d76db2a` | L-04: Add calculate.py |
-| `51c40eb` | L-04: Doc updated for triangle |
-| `d080c78` | L-04: Triangle added |
-| `d078c8d` | L-03: Docs added |
-| `8ba9aeb` | L-03: Circle and square added |
-| `c9e2330` | Исправлена ошибка в вычислении периметра прямоугольника |
-| `9ef6d0f` | Добавлен файл triangle.py с функциями area и perimeter |
 | `1eed123` | Добавлен файл rectangle.py с функциями area и perimeter |
+| `9ef6d0f` | Добавлен файл triangle.py с функциями area и perimeter |
+| `c9e2330` | Исправлена ошибка в вычислении периметра прямоугольника |
+| `e37363d` | Добавлена отдельная документация и пояснения работы функций |
+| `14ad660` | Исправлена отдельная документация |
